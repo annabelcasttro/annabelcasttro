@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Anna Izabel
 #### I am Data Scientist at Ame Digital
-![I am Data Scientist at Ame Digital](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Data Scientist at Ame Digital](https://github.com/annabelcasttro/annabelcasttro/blob/main/Data%20Science.png)
 
 I have PhD in Computer Science from the Federal University of Minas Gerais (UFMG), Master in Informatics (01/10/2010) and Bachelor of Computer Science (13/12/2008) from the Catholic University of Minas Gerais (PUC Minas). My GPA is 97%, 97% and 95% in both courses, respectively, and I have worked at Microsoft Research.
 
